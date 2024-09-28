@@ -1,5 +1,5 @@
-# demo el primiro  
+# Mi primero demo
 
-hi there this is a demo for the first hada
+hi there this is a demo for the first time
 
 done
